@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "slidely-form-frontend", "slidely-form-frontend\slidely-form-frontend.vbproj", "{21C45CB6-99D4-4C7A-A76A-ABE20869B09F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21C45CB6-99D4-4C7A-A76A-ABE20869B09F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21C45CB6-99D4-4C7A-A76A-ABE20869B09F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21C45CB6-99D4-4C7A-A76A-ABE20869B09F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21C45CB6-99D4-4C7A-A76A-ABE20869B09F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAD7D514-9E9A-44EC-99A9-2E6EC6065825}
+	EndGlobalSection
+EndGlobal

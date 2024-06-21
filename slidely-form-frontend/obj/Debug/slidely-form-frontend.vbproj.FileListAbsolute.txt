@@ -1,0 +1,15 @@
+C:\Users\ansar\source\repos\slidely-form-frontend\slidely-form-frontend\obj\Debug\slidely-form-frontend.vbproj.AssemblyReference.cache
+C:\Users\ansar\source\repos\slidely-form-frontend\slidely-form-frontend\obj\Debug\slidely_form_frontend.Resources.resources
+C:\Users\ansar\source\repos\slidely-form-frontend\slidely-form-frontend\obj\Debug\slidely-form-frontend.vbproj.GenerateResource.cache
+C:\Users\ansar\source\repos\slidely-form-frontend\slidely-form-frontend\obj\Debug\slidely-form-frontend.vbproj.CoreCompileInputs.cache
+C:\Users\ansar\source\repos\slidely-form-frontend\slidely-form-frontend\bin\Debug\slidely-form-frontend.exe.config
+C:\Users\ansar\source\repos\slidely-form-frontend\slidely-form-frontend\bin\Debug\slidely-form-frontend.exe
+C:\Users\ansar\source\repos\slidely-form-frontend\slidely-form-frontend\bin\Debug\slidely-form-frontend.pdb
+C:\Users\ansar\source\repos\slidely-form-frontend\slidely-form-frontend\bin\Debug\slidely-form-frontend.xml
+C:\Users\ansar\source\repos\slidely-form-frontend\slidely-form-frontend\obj\Debug\slidely_form_frontend.MainForm.resources
+C:\Users\ansar\source\repos\slidely-form-frontend\slidely-form-frontend\obj\Debug\slidely-form-frontend.exe
+C:\Users\ansar\source\repos\slidely-form-frontend\slidely-form-frontend\obj\Debug\slidely-form-frontend.xml
+C:\Users\ansar\source\repos\slidely-form-frontend\slidely-form-frontend\obj\Debug\slidely-form-frontend.pdb
+C:\Users\ansar\source\repos\slidely-form-frontend\slidely-form-frontend\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ansar\source\repos\slidely-form-frontend\slidely-form-frontend\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ansar\source\repos\slidely-form-frontend\slidely-form-frontend\obj\Debug\slidely-.650804FC.Up2Date
